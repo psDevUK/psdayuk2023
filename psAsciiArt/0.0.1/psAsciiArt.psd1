@@ -95,13 +95,13 @@ PrivateData = @{
     PSData = @{
 
         # Tags applied to this module. These help with module discovery in online galleries.
-        # Tags = @()
+         Tags = @('AsciiArt','Art','Ascii','Fun')
 
         # A URL to the license for this module.
         # LicenseUri = ''
 
         # A URL to the main website for this project.
-        # ProjectUri = ''
+         ProjectUri = 'https://github.com/psDevUK/psdayuk2023/tree/main/psAsciiArt/0.0.1'
 
         # A URL to an icon representing this module.
         IconUri = 'https://github.com/psDevUK/psdayuk2023/blob/main/ConvertTo-AsciiArt/psAsciiArt.gif?raw=true'
