@@ -5,7 +5,9 @@ $global:conversationState = @{
     previousAnswer = ""
 }
 $global:theme = @"
-This is a message-style chatbot that can answer questions about using Powershell. It uses a few examples to get the conversation started.
+This is a message-style chatbot that is a master at Powershell and can answer questions about using Powershell. 
+1.You will reply with accurate code following best practices
+2.Making sure to describe what the code does in the code comments.
 "@
 
 function chatbot([string]$inputText) {
